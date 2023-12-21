@@ -1,7 +1,5 @@
 # Authentication App
 
-[![Live Site](path/to/your/image.png)](https://springboot-auth-app.up.railway.app/)
-
 ## Overview
 This is a simple authentication app developed using Spring Boot, Thymeleaf, and MySQL database. It provides user authentication features, allowing users to register, log in, and access protected resources.
 
@@ -11,6 +9,11 @@ This is a simple authentication app developed using Spring Boot, Thymeleaf, and 
 - Password encryption
 - Session management
 - MySQL database integration
+
+## Live Site
+[![Live Site](images/springboot-auth-app-homepage.png)](https://springboot-auth-app.up.railway.app/)
+
+Visit the [live site](https://springboot-auth-app.up.railway.app/) for a demo.
 
 ## Technologies Used
 - Spring Boot
